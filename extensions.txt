@@ -1,0 +1,10 @@
+png
+jpeg
+webp
+exe
+com
+bat
+pdf
+docx
+txt
+rtf
